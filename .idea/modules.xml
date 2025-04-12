@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android/android.iml" filepath="$PROJECT_DIR$/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/cloud_firestore/cloud_firestore.iml" filepath="$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/cloud_firestore/cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/firebase_auth.iml" filepath="$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/firebase_core.iml" filepath="$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linux/linux.iml" filepath="$PROJECT_DIR$/linux/linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/printing/printing.iml" filepath="$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/printing/printing.iml" />
+    </modules>
+  </component>
+</project>
